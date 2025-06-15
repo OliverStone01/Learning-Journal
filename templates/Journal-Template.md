@@ -1,13 +1,13 @@
-# 🗓️ {{DATE}}
+## 🗓️ Date
 
-## ✅ What I Did
+### ✅ What i've done today.
 - 
 
-## 🧠 What I Learned
+### 🧠 What I learnt.
 - 
 
-## ❓ Questions or Challenges
+### ❓ Questions and challenges.
 - 
 
-## 🎯 Goals for Tomorrow
+### 🎯 Goals for tomorrow.
 - 
