@@ -14,7 +14,7 @@
 #### Computer Science and Problem Solving
 Computer programming involves taking inputs and producing outputs, solving problems. This course focusses on the 'black box' between input and output.
 
-![black box](/Notes/img/blackBox.jpeg)
+![black box](/Notes/Harvard-CS50-2025/Notes-images/blackBox.jpeg)
 
 - unary (base 1):  
 to count on one finger at a time.
