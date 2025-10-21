@@ -1,8 +1,8 @@
 ## 🗓️ Date
 
-### ✅ What i've done today.
+### ✅ Done today:
 - 
 
 
-### 🎯 Goals for tomorrow.
+### 🎯 Goals:
 - 
